@@ -61,7 +61,7 @@ The generated FSK signal is loaded into the TiePie HS3 generator as an arbitrary
 | `hs3.dll` | TiePie HS3 DLL interface |
 | `hs3f8.hex` / `hs3f12.hex` | TiePie support firmware files |
 
-> Note: The ZIP includes documentation and reference materials. Copy your actual `.vi`, `.dll`, and `.hex` files into the `labview/` and `vendor/` folders before uploading, unless you are keeping those files private.
+
 
 ## System Requirements
 
