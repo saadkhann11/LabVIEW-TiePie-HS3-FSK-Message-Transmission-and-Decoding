@@ -2,19 +2,7 @@
 
 A professional LabVIEW engineering project for generating a text message as a two-frequency FSK waveform, transmitting it with the TiePie HS3 arbitrary waveform generator, acquiring the signal on CH1, decoding the received waveform, and displaying the reconstructed message.
 
-## Repository Name
 
-Recommended repository name:
-
-```text
-labview-tiepie-hs3-fsk-message-transmission
-```
-
-## Repository Description
-
-```text
-LabVIEW project for FSK message generation, TiePie HS3 arbitrary waveform transmission, CH1 acquisition, and frequency-energy based decoding back into text.
-```
 
 ## Project Overview
 
