@@ -1,0 +1,5 @@
+message,frequency_1_hz,frequency_2_hz,bit_duration_s,sampling_rate_hz,amplitude_v,dc_offset_v,expected_characters,useful_samples,padded_length,wait_ms
+A,2000,4000,0.05,50000,1,0,1,20000,32768,655.36
+AB,2000,4000,0.05,50000,1,0,2,40000,65536,1310.72
+ABCD,2000,4000,0.05,50000,1,0,4,80000,131072,2621.44
+HELLO,2000,4000,0.05,50000,1,0,5,100000,131072,2621.44
